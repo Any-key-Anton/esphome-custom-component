@@ -10,7 +10,7 @@ This component brings back support for such components.
 
 ## USAGE
 
-Add the following to your project's YAML:
+Добавьте эти строки в ваш  YAML:
 ```
 external_components:
   - source:
@@ -19,7 +19,7 @@ external_components:
     components: [ custom, custom_component ]
 ```
 
-This should be enough to enable compilation of custom components again.
+Этого должнобытьдостаточно чтоб вернуть функцию кастомных компонентов
 
 ## LICENSE
 
